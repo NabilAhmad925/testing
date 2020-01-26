@@ -1,0 +1,1 @@
+print("Tayyab ko batanay ka liya")
